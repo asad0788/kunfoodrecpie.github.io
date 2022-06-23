@@ -8,7 +8,7 @@
 
 /* URL PROJECT */
 
-define ('SITE_URL', 'http://localhost/recipie');
+define ('SITE_URL', 'http://noorrecpie.me/');
 
 /* DATABASE CONFIGURATION */
 
